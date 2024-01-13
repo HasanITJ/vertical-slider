@@ -3,4 +3,4 @@
 
 #Ссылка на проект
 
-* [vertical-slider](https://github.com/HasanITJ/vertical-slider)
+* [vertical-slider](https://hasanitj.github.io/vertical-slider/)
